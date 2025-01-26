@@ -1,6 +1,9 @@
 # mm-Wave Radar-Based Vital Signs Monitoring and Arrhythmia Detection Using Machine Learning
 
-This repository is the official implementation of the paper titled "mm-Wave Radar-Based Vital Signs Monitoring and Arrhythmia Detection Using Machine Learning" published in Sensors MDPI. 
+This repository is the official implementation of the [paper](https://www.mdpi.com/1424-8220/22/9/3106) titled "mm-Wave Radar-Based Vital Signs Monitoring and Arrhythmia Detection Using Machine Learning" published in Sensors MDPI. 
+
+https://github.com/user-attachments/assets/b26673e0-3b43-454f-b0a3-cd51da913339
+
 
 ## Requirements
 
